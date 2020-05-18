@@ -1,2 +1,6 @@
 # Hello-World
-A brief intro session to get started with Git and GitHub
+
+I am learning Data Science for the first time ever.
+
+I must admit, I am really excited took this opportunity.
+How amzaing will be when I can do all th wounders of being a problem solver.
